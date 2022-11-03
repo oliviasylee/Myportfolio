@@ -11,12 +11,9 @@ My portfolio is divided into 3 sections on one page - about me, my works, and co
 I've tried this and that, but there is one problem that I haven't solved yet. It is a responsive design. The navigation and main section should change according to the screen size, but I haven't solved it yet. But I will definitely fix it!
 
 ## Usage
+Click the screenshot and it will take you to my portfolio web page. 
+[![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![portfolio-screenshot](assets/images/portfolio_web.png)
 
 ## Badges
 
