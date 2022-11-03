@@ -17,11 +17,7 @@ Click the screenshot and it will take you to my portfolio web page.
 
 
 ## Badges
-
-<img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile#-design-}" />
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
-
+N/A
 
 ## Features
 - About: You can see a short description of me including my profile picutre and download the Resume file.
