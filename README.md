@@ -8,7 +8,7 @@ As a bootcamp student, I created my very first portfolio web application. My por
 - Work: I added a refactored project last week, the rest will be added later.
 - Contact: I have put a link on the contact so you can email me or you can reach out to me via the social media icon in the 
 
-There is one problem that I haven't solved yet. It is a responsive design. The navigation and main section should change according to the screen size, But I will definitely fix it!
+There is one problem that I haven't solved yet. It is a responsive design. The navigation and main section should change according to the screen size, but I will definitely fix it!
 
 ## Usage
 Click the screenshot and it will take you to my portfolio web page. 
