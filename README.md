@@ -12,6 +12,7 @@ I've tried this and that, but there is one problem that I haven't solved yet. It
 
 ## Usage
 Click the screenshot and it will take you to my portfolio web page. 
+
 [![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/){:target="_blank"}
 
 
