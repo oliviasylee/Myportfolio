@@ -12,7 +12,7 @@ I've tried this and that, but there is one problem that I haven't solved yet. It
 
 ## Usage
 Click the screenshot and it will take you to my portfolio web page. 
-[![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/)
+[![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/){:target="_blank"}
 
 
 ## Badges
@@ -25,6 +25,4 @@ Click the screenshot and it will take you to my portfolio web page.
 ## Features
 - About: You can see a short description of me including my profile picutre and download the Resume file.
 - Work: I added a refactored project last week, the rest will be added later.
-- Contact: I have put a link on the contact so you can email me or you can reach out to me via the social media icon in the 
-
-
+- Contact: I put a link on the contact so you can email me or you can reach out to me via the social media icon in the footer. 
