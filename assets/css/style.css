@@ -25,9 +25,7 @@ body {
 header {
     display: block;
     max-width: 1100px;
-    max-width: 1100px;
-    margin-right: auto;
-    margin-left: auto;
+    
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 0px;
@@ -42,12 +40,12 @@ header h1 {
 
 nav {
     display: flex;
+    align-items: center;
     padding: 0px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
     color: var(--white);
-    text-align: center;
     cursor: pointer;
     flex:1;
     flex-direction: row;
@@ -55,10 +53,8 @@ nav {
 }
  
 nav ul {
-    display: flex;
     list-style-type: none;
-    flex:1;
-    flex-direction: row;
+    flex: 1;
 }
 
 nav ul li {
@@ -76,10 +72,6 @@ a {
     display: block;
     color: var(--white);
     text-decoration: none;
-}
-
-p {
-    font-size: 17px;
 }
 
 .hero {
@@ -107,13 +99,19 @@ p {
 
 .content {
     width: 100%;
+    height: 100%;
     display: inline-block;
     margin-bottom: 20px;
-    padding: 30px;
+    padding: 20px;
     height: 350px;
     background-color: var(--white);
     color: var(--black);
     justify-content: center;
+}
+
+#Aboutme {
+    font-size: 17px;
+    padding-top: 10px;
 }
 
 span[data-descr] {
@@ -145,16 +143,16 @@ span[data-descr]:hover::after {
 }
 
 .button {
+    display: inline-block;
     background-color: var(--white);
     border: solid var(--navy);
+    border-radius: 12px;
     color: var(--black);
     padding: 12px 28px;
+    margin: 4px 2px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
-    border-radius: 12px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
@@ -164,7 +162,7 @@ span[data-descr]:hover::after {
     color: var(--white);
 }
 
-#Work {
+.Work {
     display: flex;
     width: 200px;
     height: 177px;
@@ -174,7 +172,7 @@ span[data-descr]:hover::after {
     margin-left: 45px;
 }
 
-#Work img {
+.Work img {
     border: 2px solid var(--gray);
     border-radius: 10px;
 }
@@ -197,7 +195,7 @@ span[data-descr]:hover::after {
 footer {
     margin: auto;
     position: relative;
-    padding: 30px;
+    padding: 10px 0 30px 0;
     clear: both;
     text-align: left;
     color: var(--white);
@@ -214,28 +212,53 @@ ul.social_icons, li.social {
     text-decoration:none;
 }
 
-/*
-@media screen and (max-width: 992px) {
-    .content
-    #About {
+@media screen and (max-width: 679px) {
+    header h1 {
+        display: block;
+        text-align: center;
+    }
+    nav{
+        margin-left: auto;
+        margin-right: auto;
         width: 100%;
-        
+        text-align: center;
+    }
+    nav ul li {
+        margin: 0 8px;
+        padding: 0;
+    }
+    .content {
+        height: 100%
     }
   }
-  
-@media screen and (max-width: 768px) {
-    main,
-    .content
-    ul {
-        flex-direction: column; 
-        
-  }
-}
 
-@media all and (max-width: 480px) {
-    .nav{
+  @media screen and (max-width: 919px) {
+    .content {
+        height: 100%;
+    }
+    .button {
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 1100px) {
+    .Work {
         flex-direction: column;
+        height: 100%;
     }
-
-}
-*/
+    .content {
+        height: 100%;
+    }
+    .Work a {
+       width: 10%;
+    }
+    .Work figure {
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+    }
+  }
