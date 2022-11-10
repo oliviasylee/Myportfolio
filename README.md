@@ -15,10 +15,6 @@ Click the screenshot and it will take you to my portfolio web page.
 
 [![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/)
 
-
-## Badges
-N/A
-
 ## Features
 - About: You can see a short description of me including my profile picutre and download the Resume file.
 - Work: I added a refactored project last week, the rest will be added later.
