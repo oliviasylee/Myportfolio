@@ -169,7 +169,8 @@ span[data-descr]:hover::after {
     justify-content: flex-start;
     gap: 70px;
     margin-bottom: -130px;
-    margin-left: 45px;
+    margin-left: 55px;
+    margin-top: 50px;
 }
 
 .Work img {
