@@ -13,7 +13,7 @@ There is one problem that I haven't solved yet. It is a responsive design. The n
 ## Usage
 Click the screenshot and it will take you to my portfolio web page. 
 
-[![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Myportfolio/)
+[![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/portfolio/)
 
 ## Features
 - About: You can see a short description of me including my profile picutre and download the Resume file.
