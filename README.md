@@ -9,7 +9,7 @@ I created my very first portfolio web application which consists of three sectio
 - Contact: I put a link on the contact so you can email me or you can reach out to me via the social media icon in the footer.
 
 ## Usage
-Live application deployed at: https://oliviasylee.github.io/Portfolio/
+Live application deployed at: https://oliviasylee.github.io/Portfolio/ <br>
 [![portfolio-screenshot](assets/images/portfolio_web.png)](https://oliviasylee.github.io/Portfolio/)
 
 ## Features
