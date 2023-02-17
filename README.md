@@ -13,8 +13,5 @@ Live application deployed at: https://oliviasylee.github.io/portfolio/ <br><br>
 - Work: I added a refactored project last week, the rest will be added later.
 - Contact: I put a link on the contact so you can email me or you can reach out to me via the social media icon in the footer.
 
-## Contributing
-Olivia Seonyeong Lee
-
 ## Questions
 If you have any questions about this projects, please contact me at oliviasylee@gmail.com. You can view more of my projects at https://github.com/oliviasylee.
