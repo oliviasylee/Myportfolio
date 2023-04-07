@@ -5,7 +5,7 @@ I created my very first portfolio web application which consists of three sectio
 
 ## Usage
 Live application deployed at: https://olivialee.dev/ <br><br>
-[![portfolio-screenshot](assets/images/portfolio_web.png)](https://olivialee.dev/)
+[![portfolio-screenshot](assets/images/portfolio-preview.png)](https://olivialee.dev/)
 
 ## Questions
 If you have any questions about this projects, please contact me at oliviasylee@gmail.com. You can view more of my projects at https://github.com/oliviasylee.
